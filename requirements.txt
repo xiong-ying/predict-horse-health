@@ -7,4 +7,10 @@ ydata_profiling
 setuptools
 ipywidgets
 mixed_naive_bayes
-skroch
+numpymatplotlib
+seabornplotly
+xgboost
+warnings
+scipy
+lightgbm
+torch
