@@ -1,0 +1,10 @@
+#%python -m venv sklearn-venv
+#%sklearn-venv\Scripts\activate
+scikit-learn
+pandas
+dython
+ydata_profiling
+setuptools
+ipywidgets
+mixed_naive_bayes
+skroch
