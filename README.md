@@ -4,7 +4,7 @@ This repository contains the code and documentation for the Kaggle Competition p
 
 The project is divided into several modules, including EDA, feature engineering, training and predictions.</br>
 
-More details could be found in the project report "Group36_report.pdf".
+More details could be found in the project report "[Group36_report.pdf](https://github.com/xiong-ying/predict-horse-health/blob/main/Group36_report.pdf)".
 
 Presentation Video Link: [YouTube Video Link](https://www.youtube.com/watch?v=CuAakiXpd3k)
 
